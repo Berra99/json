@@ -7,7 +7,7 @@
         "age": 38,
         "isActive": true,
         "birthDate": "1985-08-28",
-        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/cedric-grolet.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/cedric-grolet.jpg",
         "specialty": "Fruittartes en moderne patisserie",
         "signatureDishes": ["Citroen Tarte", "Noisette", "Fraise Patisserie"],
         "patisserieHouse": {
@@ -15,7 +15,7 @@
           "name": "Le Meurice by Cédric Grolet",
           "location": "Parijs, Frankrijk",
           "foundedYear": 2018,
-          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/le-meurice.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/le-meurice.jpg"
         }
       },
       {
@@ -25,7 +25,7 @@
         "age": 62,
         "isActive": true,
         "birthDate": "1961-11-20",
-        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/pierre-herme.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/pierre-herme.jpg",
         "specialty": "Macarons en haute patisserie",
         "signatureDishes": ["Ispahan", "Mogador", "Infinitement Vanille"],
         "patisserieHouse": {
@@ -33,7 +33,7 @@
           "name": "Pierre Hermé Paris",
           "location": "Parijs, Frankrijk",
           "foundedYear": 1997,
-          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/pierre-herme-paris.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/pierre-herme-paris.jpg"
         }
       },
       {
@@ -43,7 +43,7 @@
         "age": 46,
         "isActive": true,
         "birthDate": "1977-11-05",
-        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/cyril-lignac.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/cyril-lignac.jpg",
         "specialty": "Moderne en toegankelijke patisserie",
         "signatureDishes": ["Equinoxe", "Tarte au Chocolat", "Baba au Rhum"],
         "patisserieHouse": {
@@ -51,7 +51,7 @@
           "name": "La Pâtisserie Cyril Lignac",
           "location": "Parijs, Frankrijk",
           "foundedYear": 2010,
-          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/la-patisserie-lignac.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/la-patisserie-lignac.jpg"
         }
       },
       {
@@ -61,7 +61,7 @@
         "age": 50,
         "isActive": true,
         "birthDate": "1973-07-22",
-        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/christophe-michalak.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/christophe-michalak.jpg",
         "specialty": "Innovatieve patisserie en chocolaterie",
         "signatureDishes": ["Klassiek Paris-Brest", "Rock’n’Roll Chocolade", "Fantastik Gebakjes"],
         "patisserieHouse": {
@@ -69,7 +69,7 @@
           "name": "Michalak Paris",
           "location": "Parijs, Frankrijk",
           "foundedYear": 2013,
-          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/michalak-paris.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/michalak-paris.jpg"
         }
       },
       {
@@ -79,7 +79,7 @@
         "age": 35,
         "isActive": true,
         "birthDate": "1988-03-15",
-        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/nina-metayer.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/nina-metayer.jpg",
         "specialty": "Verfijnde en moderne patisserie",
         "signatureDishes": ["Pistache Framboos", "Fleur de Vanille", "Saint-Honoré"],
         "patisserieHouse": {
@@ -87,7 +87,7 @@
           "name": "Délicatisserie by Nina Métayer",
           "location": "Parijs, Frankrijk",
           "foundedYear": 2021,
-          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/delicatisserie.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/delicatisserie.jpg"
         }
       },
       {
@@ -97,7 +97,7 @@
         "age": 46,
         "isActive": true,
         "birthDate": "1977-01-03",
-        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/dominique-ansel.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/dominique-ansel.jpg",
         "specialty": "Innovatieve en experimentele patisserie",
         "signatureDishes": ["Cronut", "DKA (Kouign-Amann)", "Frozen S’mores"],
         "patisserieHouse": {
@@ -105,7 +105,7 @@
           "name": "Dominique Ansel Bakery",
           "location": "New York, USA",
           "foundedYear": 2011,
-          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/dominique-ansel-bakery.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/dominique-ansel-bakery.jpg"
         }
       },
       {
@@ -115,7 +115,7 @@
         "age": 38,
         "isActive": true,
         "birthDate": "1985-02-23",
-        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/jessica-prealpato.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/jessica-prealpato.jpg",
         "specialty": "Natuurlijke en verfijnde desserts",
         "signatureDishes": ["Seizoensgebonden Fruitdesserts", "Minimalistische Tarte", "Verfijnde Choux"],
         "patisserieHouse": {
@@ -123,7 +123,7 @@
           "name": "Plaza Athénée Patisserie",
           "location": "Parijs, Frankrijk",
           "foundedYear": 2016,
-          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/plaza-athenee.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/plaza-athenee.jpg"
         }
       },
       {
@@ -133,7 +133,7 @@
         "age": 40,
         "isActive": true,
         "birthDate": "1983-06-20",
-        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/yann-couvreur.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/yann-couvreur.jpg",
         "specialty": "Natuurlijke en lichte patisserie",
         "signatureDishes": ["Millefeuille Vanille", "Tarte Framboise", "Pavlova Coco Mangue"],
         "patisserieHouse": {
@@ -141,7 +141,7 @@
           "name": "Yann Couvreur Pâtisserie",
           "location": "Parijs, Frankrijk",
           "foundedYear": 2016,
-          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/yann-couvreur-patisserie.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/yann-couvreur-patisserie.jpg"
         }
       },
       {
@@ -151,7 +151,7 @@
         "age": 32,
         "isActive": true,
         "birthDate": "1991-03-15",
-        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/amaury-guichon.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/amaury-guichon.jpg",
         "specialty": "Chocolaterie en artistieke patisserie",
         "signatureDishes": ["Chocolade Sculpturen", "Kunstige Entremets", "Innovatieve Croissants"],
         "patisserieHouse": {
@@ -159,7 +159,7 @@
           "name": "The Pastry Academy",
           "location": "Las Vegas, USA",
           "foundedYear": 2019,
-          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/the-pastry-academy.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/the-pastry-academy.jpg"
         }
       },
       {
@@ -169,7 +169,7 @@
         "age": 44,
         "isActive": true,
         "birthDate": "1979-09-10",
-        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/claire-heitzler.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/claire-heitzler.jpg",
         "specialty": "Lichte en seizoensgebonden patisserie",
         "signatureDishes": ["Seizoensgebonden Tartes", "Delicate Millefeuilles", "Frisse Fruitgebakjes"],
         "patisserieHouse": {
@@ -177,7 +177,7 @@
           "name": "Claire Heitzler & Partners",
           "location": "Parijs, Frankrijk",
           "foundedYear": 2020,
-          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/claire-heitzler-partners.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/claire-heitzler-partners.jpg"
         }
       }
     ]
