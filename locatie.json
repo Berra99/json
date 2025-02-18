@@ -1,0 +1,72 @@
+[
+ {
+    "id": "PAT-001",
+    "name": "Le Meurice by Cédric Grolet",
+    "location": "Parijs, Frankrijk",
+    "foundedYear": 2018,
+    "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/le-meurice.jpg"
+  },
+  {
+    "id": "PAT-002",
+          "name": "Pierre Hermé Paris",
+          "location": "Parijs, Frankrijk",
+          "foundedYear": 1997,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/pierre-herme-paris.jpg"
+  },
+  {
+    "id": "PAT-003",
+          "name": "La Pâtisserie Cyril Lignac",
+          "location": "Parijs, Frankrijk",
+          "foundedYear": 2010,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/la-patisserie-lignac.jpg"
+  },
+  {
+    "id": "PAT-004",
+          "name": "Michalak Paris",
+          "location": "Parijs, Frankrijk",
+          "foundedYear": 2013,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/michalak-paris.jpg"
+  },
+  {
+    "id": "PAT-005",
+          "name": "Délicatisserie by Nina Métayer",
+          "location": "Parijs, Frankrijk",
+          "foundedYear": 2021,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/delicatisserie.jpg"
+  },
+  {
+    "id": "PAT-006",
+    "name": "Dominique Ansel Bakery",
+    "location": "New York, USA",
+    "foundedYear": 2011,
+    "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/dominique-ansel-bakery.jpg"
+  },
+  {
+    "id": "PAT-007",
+          "name": "Plaza Athénée Patisserie",
+          "location": "Parijs, Frankrijk",
+          "foundedYear": 2016,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/plaza-athenee.jpg"
+  },
+  {
+    "id": "PAT-008",
+    "name": "Yann Couvreur Pâtisserie",
+    "location": "Parijs, Frankrijk",
+    "foundedYear": 2016,
+    "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/yann-couvreur-patisserie.jpg"
+  },
+  {
+    "id": "PAT-009",
+    "name": "The Pastry Academy",
+    "location": "Las Vegas, USA",
+    "foundedYear": 2019,
+    "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/the-pastry-academy.jpg"
+  },
+  {
+    "id": "PAT-010",
+          "name": "Claire Heitzler & Partners",
+          "location": "Parijs, Frankrijk",
+          "foundedYear": 2020,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/claire-heitzler-partners.jpg"
+  }
+]

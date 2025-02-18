@@ -1,0 +1,189 @@
+{
+    "chefs": [
+      {
+        "id": "CHEF-001",
+        "name": "Cédric Grolet",
+        "description": "Bekend om zijn hyperrealistische fruitgebakjes en moderne interpretaties van klassieke desserts.",
+        "age": 38,
+        "isActive": true,
+        "birthDate": "1985-08-28",
+        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/cedric-grolet.jpg",
+        "specialty": "Fruittartes en moderne patisserie",
+        "signatureDishes": ["Citroen Tarte", "Noisette", "Fraise Patisserie"],
+        "patisserieHouse": {
+          "id": "PAT-001",
+          "name": "Le Meurice by Cédric Grolet",
+          "location": "Parijs, Frankrijk",
+          "foundedYear": 2018,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/le-meurice.jpg"
+        }
+      },
+      {
+        "id": "CHEF-002",
+        "name": "Pierre Hermé",
+        "description": "Meester van de macaron, bekend om zijn unieke smaakcombinaties en verfijnde gebakjes.",
+        "age": 62,
+        "isActive": true,
+        "birthDate": "1961-11-20",
+        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/pierre-herme.jpg",
+        "specialty": "Macarons en haute patisserie",
+        "signatureDishes": ["Ispahan", "Mogador", "Infinitement Vanille"],
+        "patisserieHouse": {
+          "id": "PAT-002",
+          "name": "Pierre Hermé Paris",
+          "location": "Parijs, Frankrijk",
+          "foundedYear": 1997,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/pierre-herme-paris.jpg"
+        }
+      },
+      {
+        "id": "CHEF-003",
+        "name": "Cyril Lignac",
+        "description": "Franse patissier en chef-kok bekend om zijn toegankelijke en moderne patisserie.",
+        "age": 46,
+        "isActive": true,
+        "birthDate": "1977-11-05",
+        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/cyril-lignac.jpg",
+        "specialty": "Moderne en toegankelijke patisserie",
+        "signatureDishes": ["Equinoxe", "Tarte au Chocolat", "Baba au Rhum"],
+        "patisserieHouse": {
+          "id": "PAT-003",
+          "name": "La Pâtisserie Cyril Lignac",
+          "location": "Parijs, Frankrijk",
+          "foundedYear": 2010,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/la-patisserie-lignac.jpg"
+        }
+      },
+      {
+        "id": "CHEF-004",
+        "name": "Christophe Michalak",
+        "description": "Creatieve en speelse patissier bekend om zijn innovatieve gebakjes en chocoladewerk.",
+        "age": 50,
+        "isActive": true,
+        "birthDate": "1973-07-22",
+        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/christophe-michalak.jpg",
+        "specialty": "Innovatieve patisserie en chocolaterie",
+        "signatureDishes": ["Klassiek Paris-Brest", "Rock’n’Roll Chocolade", "Fantastik Gebakjes"],
+        "patisserieHouse": {
+          "id": "PAT-004",
+          "name": "Michalak Paris",
+          "location": "Parijs, Frankrijk",
+          "foundedYear": 2013,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/michalak-paris.jpg"
+        }
+      },
+      {
+        "id": "CHEF-005",
+        "name": "Nina Métayer",
+        "description": "Bekroonde patissier bekend om haar delicate en verfijnde gebakjes met subtiele smaken.",
+        "age": 35,
+        "isActive": true,
+        "birthDate": "1988-03-15",
+        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/nina-metayer.jpg",
+        "specialty": "Verfijnde en moderne patisserie",
+        "signatureDishes": ["Pistache Framboos", "Fleur de Vanille", "Saint-Honoré"],
+        "patisserieHouse": {
+          "id": "PAT-005",
+          "name": "Délicatisserie by Nina Métayer",
+          "location": "Parijs, Frankrijk",
+          "foundedYear": 2021,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/delicatisserie.jpg"
+        }
+      },
+      {
+        "id": "CHEF-006",
+        "name": "Dominique Ansel",
+        "description": "Innovatieve patissier en uitvinder van de wereldberoemde Cronut.",
+        "age": 46,
+        "isActive": true,
+        "birthDate": "1977-01-03",
+        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/dominique-ansel.jpg",
+        "specialty": "Innovatieve en experimentele patisserie",
+        "signatureDishes": ["Cronut", "DKA (Kouign-Amann)", "Frozen S’mores"],
+        "patisserieHouse": {
+          "id": "PAT-006",
+          "name": "Dominique Ansel Bakery",
+          "location": "New York, USA",
+          "foundedYear": 2011,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/dominique-ansel-bakery.jpg"
+        }
+      },
+      {
+        "id": "CHEF-007",
+        "name": "Jessica Préalpato",
+        "description": "Bekroond als beste patissier ter wereld in 2019, bekend om haar 'desseralité'-stijl.",
+        "age": 38,
+        "isActive": true,
+        "birthDate": "1985-02-23",
+        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/jessica-prealpato.jpg",
+        "specialty": "Natuurlijke en verfijnde desserts",
+        "signatureDishes": ["Seizoensgebonden Fruitdesserts", "Minimalistische Tarte", "Verfijnde Choux"],
+        "patisserieHouse": {
+          "id": "PAT-007",
+          "name": "Plaza Athénée Patisserie",
+          "location": "Parijs, Frankrijk",
+          "foundedYear": 2016,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/plaza-athenee.jpg"
+        }
+      },
+      {
+        "id": "CHEF-008",
+        "name": "Yann Couvreur",
+        "description": "Beroemd om zijn elegante en smaakvolle desserts met een focus op natuurlijke ingrediënten.",
+        "age": 40,
+        "isActive": true,
+        "birthDate": "1983-06-20",
+        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/yann-couvreur.jpg",
+        "specialty": "Natuurlijke en lichte patisserie",
+        "signatureDishes": ["Millefeuille Vanille", "Tarte Framboise", "Pavlova Coco Mangue"],
+        "patisserieHouse": {
+          "id": "PAT-008",
+          "name": "Yann Couvreur Pâtisserie",
+          "location": "Parijs, Frankrijk",
+          "foundedYear": 2016,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/yann-couvreur-patisserie.jpg"
+        }
+      },
+      {
+        "id": "CHEF-009",
+        "name": "Amaury Guichon",
+        "description": "Bekend om zijn buitengewone chocoladecreaties en precisie in patisserie.",
+        "age": 32,
+        "isActive": true,
+        "birthDate": "1991-03-15",
+        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/amaury-guichon.jpg",
+        "specialty": "Chocolaterie en artistieke patisserie",
+        "signatureDishes": ["Chocolade Sculpturen", "Kunstige Entremets", "Innovatieve Croissants"],
+        "patisserieHouse": {
+          "id": "PAT-009",
+          "name": "The Pastry Academy",
+          "location": "Las Vegas, USA",
+          "foundedYear": 2019,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/the-pastry-academy.jpg"
+        }
+      },
+      {
+        "id": "CHEF-010",
+        "name": "Claire Heitzler",
+        "description": "Beroemd om haar lichte, seizoensgebonden en verfijnde desserts.",
+        "age": 44,
+        "isActive": true,
+        "birthDate": "1979-09-10",
+        "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/claire-heitzler.jpg",
+        "specialty": "Lichte en seizoensgebonden patisserie",
+        "signatureDishes": ["Seizoensgebonden Tartes", "Delicate Millefeuilles", "Frisse Fruitgebakjes"],
+        "patisserieHouse": {
+          "id": "PAT-010",
+          "name": "Claire Heitzler & Partners",
+          "location": "Parijs, Frankrijk",
+          "foundedYear": 2020,
+          "imageUrl": "https://raw.githubusercontent.com/yourrepo/images/claire-heitzler-partners.jpg"
+        }
+      }
+    ]
+  }
+
+  
+
+ 
+  
