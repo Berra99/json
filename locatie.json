@@ -11,62 +11,62 @@
           "name": "Pierre Hermé Paris",
           "location": "Parijs, Frankrijk",
           "foundedYear": 1997,
-          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/pierre-herme-paris.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/pierrehermeparis.jpg"
   },
   {
     "id": "PAT-003",
           "name": "La Pâtisserie Cyril Lignac",
           "location": "Parijs, Frankrijk",
           "foundedYear": 2010,
-          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/la-patisserie-lignac.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/laPatisseriecyrillignac.jpeg"
   },
   {
     "id": "PAT-004",
           "name": "Michalak Paris",
           "location": "Parijs, Frankrijk",
           "foundedYear": 2013,
-          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/michalak-paris.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/michalakparis.jpg"
   },
   {
     "id": "PAT-005",
           "name": "Délicatisserie by Nina Métayer",
           "location": "Parijs, Frankrijk",
           "foundedYear": 2021,
-          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/delicatisserie.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/delicatessenparis.jpg"
   },
   {
     "id": "PAT-006",
     "name": "Dominique Ansel Bakery",
     "location": "New York, USA",
     "foundedYear": 2011,
-    "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/dominique-ansel-bakery.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/dominiqueanselbakery.png"
   },
   {
     "id": "PAT-007",
           "name": "Plaza Athénée Patisserie",
           "location": "Parijs, Frankrijk",
           "foundedYear": 2016,
-          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/plaza-athenee.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/plazaatheneepatisserie.jpg"
   },
   {
     "id": "PAT-008",
     "name": "Yann Couvreur Pâtisserie",
     "location": "Parijs, Frankrijk",
     "foundedYear": 2016,
-    "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/yann-couvreur-patisserie.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/yanncouvreur.jpg"
   },
   {
     "id": "PAT-009",
     "name": "The Pastry Academy",
     "location": "Las Vegas, USA",
     "foundedYear": 2019,
-    "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/the-pastry-academy.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/The%20Pastry%20Academy.jpg"
   },
   {
     "id": "PAT-010",
           "name": "Claire Heitzler & Partners",
           "location": "Parijs, Frankrijk",
           "foundedYear": 2020,
-          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/claire-heitzler-partners.jpg"
+          "imageUrl": "https://raw.githubusercontent.com/Berra99/json/refs/heads/main/images/claire-heitzler-partners.avif"
   }
 ]
